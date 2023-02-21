@@ -1,7 +1,7 @@
 function viralAdvertising(n) {
   // Write your code here
   let people = 5;
- let  likes = 0;
+  let likes = 0;
   let Cummultive = 0;
 
   for (var i = 1; i <= n; i++) {
