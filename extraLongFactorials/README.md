@@ -1,3 +1,8 @@
+
+for solution you can refere to https://www.freecodecamp.org/news/how-to-factorialize-a-number-in-javascript-9263c89a4b38/
+
+
+
 The factorial of the integer , written , is defined as:
 
 Calculate and print the factorial of a given integer.
